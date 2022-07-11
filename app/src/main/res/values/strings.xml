@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">sneakify</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="informazioni">Informazioni</string>
+    <string name="numvoti">numVoti</string>
+    <string name="aggiunto_al_carello">Aggiunto al carello</string>
+    <string name="sneakify">SNEAKIFY</string>
+    <string name="welcome_back">welcome back</string>
+    <string name="email">email</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create account</string>
+    <string name="modifica_email">Modifica Email</string>
+    <string name="modifica_password">Modifica Password</string>
+    <string name="info_del_prodotto">Info del prodotto</string>
+    <string name="aggiungi_al_carello">Aggiungi al carello</string>
+    <string name="rimuovi">RIMUOVI</string>
+    <string name="nice_to_meet_you">Nice to meet you!</string>
+    <string name="registrati">Registrati</string>
+    <string name="password">password</string>
+    <string name="carimento_del_nuovo_prodotto">Carimento del nuovo prodotto</string>
+    <string name="vota">Vota</string>
+    <string name="nome_brand">Nome Brand</string>
+    <string name="aggiungi">Aggiungi</string>
+    <string name="brand">Brand</string>
+    <string name="titolo">Titolo</string>
+    <string name="prezzo">Prezzo</string>
+    <string name="descrizione">Descrizione</string>
+    <string name="aggiungi_allo_shop">Aggiungi allo shop</string>
+    <string name="il_tuo_carello">Il tuo carello</string>
+    <string name="i_tuoi_ultimi_acquisti">I tuoi ultimi acquisti</string>
+    <string name="cosa_stai_cercando">Cosa stai cercando?</string>
+    <string name="inserisci_una_parola_chiave">Inserisci una parola chiave</string>
+    <string name="top_sneakers">Top Sneakers</string>
+    <string name="salva_email">Salva Email</string>
+    <string name="vecchia_password">Vecchia Password</string>
+    <string name="nuova_password">Nuova Password</string>
+    <string name="salva_password">Salva Password</string>
+    <string name="i_tuoi_preferiti">I tuoi preferiti</string>
+    <string name="preferiti">PREFERITI</string>
+    <string name="profilo">Profilo</string>
+    <string name="impostazioni">IMPOSTAZIONI</string>
+    <string name="logout">Logout</string>
+</resources>

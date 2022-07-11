@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "971756635348",
+    "project_id": "sneakify-b09a3",
+    "storage_bucket": "sneakify-b09a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971756635348:android:313be0b8e4ded0851ea741",
+        "android_client_info": {
+          "package_name": "com.example.sneakify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971756635348-925lu74aojjfmvoa8eeubka50ok4sjc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sneakify",
+            "certificate_hash": "508ae6631d3398a55731f0d776485e959e93ede8"
+          }
+        },
+        {
+          "client_id": "971756635348-7lvntk0lncc9js8pcgk2j3s2g6f0miq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAniagxURs7b9cTuXvzVvGaCD7e4YhMeO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971756635348-7lvntk0lncc9js8pcgk2j3s2g6f0miq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

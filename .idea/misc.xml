@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.192" />
+        <entry key="app/src/main/res/drawable/brand_rounded.xml" value="0.192" />
+        <entry key="app/src/main/res/drawable/brand_rounded_unselected.xml" value="0.181" />
+        <entry key="app/src/main/res/drawable/buy_rounded.xml" value="0.183" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3605" />
+        <entry key="app/src/main/res/drawable/ic_brand.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/ic_carello.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/ic_carello_black.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/ic_cuorepieno.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/ic_cuorevuoto.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.192" />
+        <entry key="app/src/main/res/drawable/ic_user.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/ic_user_icon.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/nav_rounded.xml" value="0.3605" />
+        <entry key="app/src/main/res/drawable/rect_roundend.xml" value="0.2125" />
+        <entry key="app/src/main/res/drawable/view_rounded.xml" value="0.2125" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.34012451171875" />
+        <entry key="app/src/main/res/layout/activity_item_details.xml" value="0.43456878662109377" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4071140075657499" />
+        <entry key="app/src/main/res/layout/activity_modifica_profilo.xml" value="0.20748829953198128" />
+        <entry key="app/src/main/res/layout/activity_modify_item_gestore.xml" value="0.2320252652145849" />
+        <entry key="app/src/main/res/layout/activity_navigation.xml" value="0.31584158415841584" />
+        <entry key="app/src/main/res/layout/activity_navigation_gestore.xml" value="0.28607594936708863" />
+        <entry key="app/src/main/res/layout/activity_registrazione.xml" value="0.20928497314453126" />
+        <entry key="app/src/main/res/layout/dialog_progess.xml" value="0.33001099937540085" />
+        <entry key="app/src/main/res/layout/dialog_vota.xml" value="0.3938934456644633" />
+        <entry key="app/src/main/res/layout/fragment_add_brand.xml" value="0.5167800903320313" />
+        <entry key="app/src/main/res/layout/fragment_add_item.xml" value="0.2633819580078125" />
+        <entry key="app/src/main/res/layout/fragment_carello.xml" value="0.14322359982898675" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.27994842529296876" />
+        <entry key="app/src/main/res/layout/fragment_modfica_email.xml" value="0.26666666666666666" />
+        <entry key="app/src/main/res/layout/fragment_modifica_password.xml" value="0.14279606669516887" />
+        <entry key="app/src/main/res/layout/fragment_preferiti.xml" value="0.3409439086914064" />
+        <entry key="app/src/main/res/layout/fragment_profilo.xml" value="0.3044176706827309" />
+        <entry key="app/src/main/res/layout/fragment_profilo_gestore.xml" value="0.13638306968790082" />
+        <entry key="app/src/main/res/layout/fragment_shop.xml" value="0.31680205215904234" />
+        <entry key="app/src/main/res/layout/grid_brand.xml" value="0.573254407578526" />
+        <entry key="app/src/main/res/layout/grid_item.xml" value="0.5694006309148265" />
+        <entry key="app/src/main/res/layout/raw_item.xml" value="1.642662048339844" />
+        <entry key="app/src/main/res/layout/raw_item_carello.xml" value="0.3857421875" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu_gestore.xml" value="0.14065840102607952" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2065" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2065" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.20928497314453126" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
